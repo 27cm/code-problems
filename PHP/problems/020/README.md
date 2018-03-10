@@ -1,6 +1,5 @@
 
-### Problem #020
-*The Waterflow Problem*
+### Problem #020: The Waterflow Problem
 
 Consider the following picture:
 
